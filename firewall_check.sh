@@ -25,4 +25,3 @@
 
 # 6. Get active firewall zones
 # TODO: Complete the command
-
